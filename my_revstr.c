@@ -1,4 +1,4 @@
-void my_revstr(char * value){
+void my_revstr(const char * value){
     
     int i = mystrlen(value);
     int j = 0;
